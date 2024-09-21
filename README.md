@@ -13,7 +13,7 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## About
 
-I am a final-year BTech Information Technology student at Vellore Institute of Technology. This portfolio website provides a comprehensive overview of my academic background, professional experience, technical skills, and projects I have worked on.
+I am a final-year BTech Electronics and Communication Engineering student at Vellore Institute of Technology. This portfolio website provides a comprehensive overview of my academic background, professional experience, technical skills, and projects I have worked on.
 
 ## Features
 
