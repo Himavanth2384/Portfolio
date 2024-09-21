@@ -35,11 +35,11 @@ I am a final-year BTech Information Technology student at Vellore Institute of T
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/saijayanth-portfolio.git
+   git clone https://github.com/your-username/himavanth-portfolio.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd saijayanth-portfolio
+   cd himavanth2384-portfolio
    ```
 3. Install dependencies:
    ```sh
@@ -57,8 +57,8 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any inquiries, please contact me at:
-- Email: vattikondasaijayanth@gmail.com
+- Email: nadellahimavanth1510@gmail.com
 
-Visit the portfolio [here](https://saijayanth-portfolio.netlify.app/).
+Visit the portfolio [here](https://himavanth2384.github.io/Portfolio/).
 
 ---
